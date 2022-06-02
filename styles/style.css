@@ -322,26 +322,43 @@ body {
   }
   
   .col-1 {
-     width: 80%;
+     width: 90%;
      margin: 0;
      align-items: center;
      margin-left: 9.0rem;
   }
   .col-1 img {
      margin-left: 6.0rem;
-     margin-top: -15.0rem;
+     margin-top: -12.0rem;
   }
   .number {
      font-size: 20px;
-  }
-  .number {
-     color: black;
+     margin-left: 14.5rem;
 }
   .col-1 span {
      margin-top: 8.5rem;
-  }
-  .col-1 h3 {
+     margin-left: 13.5rem;
      text-align: center;
-     padding-right: 1.5rem;
   }
+  .col-2 {
+     width: 105%;
+     margin-left: 6.5rem;
+  }
+.col-2-1 h3 {
+   margin-left: -0.5rem;
+   font-size: 16px;
+}
+.col-2-2 h3 {
+   margin-left: 3.5rem;
+   font-size: 16px;
+}
+.col-2-1 li {
+   margin-left: -0.5rem;
+}
+.col-2-2 li {
+   margin-left: 3.5rem; 
+}
+.personal {
+   margin-left: 6.5rem;
+}
 }
