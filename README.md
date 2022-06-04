@@ -3,7 +3,7 @@ This a project to work on my first website as a developer with the description b
 
 A. PROJECT - Build a simple responsive webpage with the following sections;
 
-    A. Website heading  (with a navigation bar and menu bar).
+    A. Website heading  (with a navigation bar, menu bar, user information section and footer section).
 
     B. Form that contains the following input fields (username, email address, phone number, password, confirm password, gender, and a submit button) 
 
