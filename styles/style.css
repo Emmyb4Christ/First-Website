@@ -337,7 +337,7 @@ body {
      margin-left: 13.5rem;
      text-align: center;
   }
-  .col-2 {
+  .col-2, .col-3, .col-4, .col-5 {
      width: 105%;
      margin-left: 6.5rem;
   }
@@ -357,5 +357,14 @@ body {
 }
 .personal {
    margin-left: 6.5rem;
+}
+.col-4 {
+   width: 120%;
+}
+.yr {
+   margin-top: -2.0rem;
+}
+.col-5-1 ul, .col-5-2 ul {
+   margin-top: 0.5rem;
 }
 }
